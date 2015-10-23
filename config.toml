@@ -1,0 +1,8 @@
+baseurl = "http://159.203.247.192//"
+languageCode = "en-us"
+title = "Channing个人博客"
+
+[params]
+  description = "bupt.FireWolf@gmail.com"
+  author = "Channing"
+  disqusShortname = "channing"
